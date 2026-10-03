@@ -59,4 +59,4 @@ Keep `Car details v3.csv` next to the notebook (or set `DATA_PATH` in the first 
 - `requirements.txt` - Python libraries needed
 
 ## Author
-[Your Name] | [Your Batch]
+VARUN D SAWALKAR
